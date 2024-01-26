@@ -13,15 +13,6 @@
       "ext": "http://lfcms.lyyytv.cn/api.php/app/"
     },
     {
-      "key": "演唱会",
-      "name": "音乐鉴赏",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "./lib/ych.json"
-    },
-    {
       "key": "YiSo",
       "name": "😹易搜┃4K",
       "type": 3,
@@ -33,53 +24,10 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/1629379d-3d20-4170-a381-7ad622d6b494/token.txt"
     },
     {
-      "key": "Zhaozy",
-      "name": "找资源┃4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/1629379d-3d20-4170-a381-7ad622d6b494/token.txt"
-    },
-    {
       "key": "PanSou",
       "name": "🦊盘搜┃4K",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/1629379d-3d20-4170-a381-7ad622d6b494/token.txt"
-    },
-    {
-      "key": "UpYun",
-      "name": "😻Up搜┃4K",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/1629379d-3d20-4170-a381-7ad622d6b494/token.txt"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀飞龙┃4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/1629379d-3d20-4170-a381-7ad622d6b494/token.txt"
-    },
-    {
-      "key": "七夜",
-      "name": "😾七夜┃4K",
-      "type": 3,
-      "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -123,68 +71,6 @@
       "filterable": 1
     },
     {
-      "key": "js虎牙",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/虎牙直播.js"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "斗鱼┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/斗鱼直播.json"
-    },
-    {
-      "key": "企鹅体育",
-      "name": "企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/企鹅体育.json"
-    },
-    {
-      "key": "310直播",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/310直播.js"
-    },
-    {
-      "key": "JRKAN直播",
-      "name": "⚽JRKAN┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/JRKAN直播.js"
-    },
-    {
-      "key": "drpy_js_有声小说吧",
-      "name": "┃有声┃小说",
-      "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "ext": "./lib/有声小说吧.js"
-    },
-    {
       "key": "csp_BBB",
       "name": "┃哔哩┃合集",
       "type": 3,
@@ -201,123 +87,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "ext": "./lib/戏曲.json"
-    },
-    {
-      "key": "csp_XYQBiu_聚合短视频",
-      "name": "️┃视频┃聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/短视频.json"
-    },
-    {
-      "key": "csp_XBPQ_酷奇",
-      "name": "酷奇┃MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/酷奇MV.json"
-    },
-    {
-      "key": "A8音乐",
-      "name": "A8┃MV",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/A8音乐.js"
-    },
-    {
-      "key": "DJ哟哟音乐网",
-      "name": "DJ哟哟┃音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/DJ音乐.js"
-    },
-    {
-      "key": "啦啦DJ音乐网",
-      "name": "啦啦DJ┃音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/啦啦DJ.js"
-    },
-    {
-      "key": "兔小贝",
-      "name": "儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/兔小贝.js"
-    },
-    {
-      "key": "儿童",
-      "name": "┃少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
-    },
-    {
-      "key": "小学",
-      "name": "┃小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"
-    },
-    {
-      "key": "初中",
-      "name": "┃初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"
-    },
-    {
-      "key": "高中",
-      "name": "┃高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
-    },
-    {
-      "key": "cc",
-      "name": "⛽请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "local3",
