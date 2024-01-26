@@ -13,9 +13,27 @@
       "filterable": 1,
       "ext": "http://lfcms.lyyytv.cn/api.php/app/"
     },
-    {"key":"Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"Maolv","name":"毛驴","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+    {
+     "key":"影探",
+     "name":"影探|App",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext": "http://cms11.lyyytv.cn/api.php/app/"
+  },
+  {
+     "key":"Czsapp",
+     "name":"厂长|App",
+     "type":3,
+     "api":"csp_Czsapp",
+     "playerType":2,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "ext":"https://www.czzy66.com/"
+  },
     {
       "key": "YiSo",
       "name": "😹易搜┃4K",
