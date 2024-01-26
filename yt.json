@@ -71,24 +71,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_BBB",
-      "name": "┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": "./lib/bili.json"
-    },
-    {
-      "key": "csp_戏曲",
-      "name": "┃哔哩┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": "./lib/戏曲.json"
-    },
-    {
       "key": "local3",
       "name": "",
       "type": 3,
