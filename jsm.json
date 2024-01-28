@@ -19,10 +19,6 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		       {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/百忙无果.js"},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt"},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
