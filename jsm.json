@@ -19,10 +19,10 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
+		       {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/腾云驾雾.js"},
+        {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/百忙无果.js"},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt"},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
@@ -34,7 +34,7 @@
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
-		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"}，
+		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":30, "ext":"./lib/tokenm.json$$$https://662688.xyz"},
 		{"key":"盘搜","name":"盘搜|网盘","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"./lib/tokenm.json$$$./lib/yiso.txt"},
