@@ -20,12 +20,9 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/百忙无果.js"},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
-		{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt"},
-		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
+                {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/优酷.js"},
+                {"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/腾云驾雾.js"},
+                {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"./js/百忙无果.js"},
 		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
@@ -183,22 +180,13 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
+		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
 		{"key":"drpy_js_美剧迷","name":"美剧迷[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":1, "timeout":30},
 		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1"},
-		{
-			"key": "JustLive",
-			"name": "JustLive",
-			"type": 3,
-			"api": "csp_JustLive",
-			"searchable": 1,
-			"changeable": 0
-		},
 		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{
 			"key": "快看",
 			"name": "快看",
@@ -378,7 +366,6 @@
 			"changeable": 0
 		},
 		{"key":"csp_Ikanbot","name": "爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
-		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key": "短剧",
 			"name": "短剧",
@@ -386,25 +373,6 @@
 			"api": "csp_Duanju",
 			"searchable": 0,
 			"changeable": 1
-		},
-		{
-			"key":"MV_vod",
-			"name":"电视┃MTV",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
-		{
-			"key": "應用商店",
-			"name": "應用商店",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[],
 		"doh": [
