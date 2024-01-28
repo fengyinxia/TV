@@ -258,7 +258,6 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"csp_Ikanbot","name": "爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{
 			"key": "短剧",
 			"name": "短剧",
